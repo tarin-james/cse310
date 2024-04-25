@@ -14,6 +14,5 @@ This was done in the Python Language
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [LearnPython.org](https://www.learnpython.org/en/Hello,_World!)
 * [Programiz.com](https://www.programiz.com/python-programming/examples/hello-world)
